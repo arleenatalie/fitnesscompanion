@@ -4,6 +4,8 @@ Website that helps user to plan their workout that classified into 2 category: P
 
 ## Getting Started
 
+npm install
+
 This project includes:
 * vue-fitness companion -> folder of vue project to build front-end by single page application.
 * api-fitness -> for backend using express framework. Database in form of JSON also included here.
